@@ -1,15 +1,8 @@
 <div align="center">
-<br>
-
-Kenzi M'hamdi
+<br> Kenzi M'hamdi
 
 <sub>Applied Mathematics–CS &nbsp;·&nbsp; Brown University</sub>
 
-<br>
-
-[website](https://yourdomain.com)
-
-<br>
 </div>
 
 ---
