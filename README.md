@@ -4,8 +4,6 @@
 
 **Applied Mathematics–CS · Brown University**
 
-*Finding structure in things people assume are settled.*
-
 </div>
 
 <br>
