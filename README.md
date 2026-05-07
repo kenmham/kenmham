@@ -10,6 +10,10 @@
 
 #### Research
 
+[**mutable-compressed-trees**](https://github.com/kenmham/mutable-compressed-trees) — Reference implementation for *Mutable Compressed Tree Representations via Construction Chains*.
+
+[**contract-typing**](https://github.com/kenmham/contract-typing) — Static verification of function composition through contract types.
+
 [**YrNBR**](https://github.com/kenmham/YrNBR) — Neighborhood prediction model using Boston municipal data. Spearman rho validation against ground-truth boundaries.
 
 #### Systems
@@ -23,6 +27,8 @@
 [**crumb**](https://github.com/kenmham/crumb) — Local CLI for tracking personal data exposure across services. Email scanning, risk scoring, deletion workflows. SQLite · argon2 · no plaintext.
 
 #### Tools
+
+[**vleye**](https://github.com/kenmham/vleye) — LLM video editor. Scene segmentation, editorial reasoning traces, iterative feedback. Runs locally, costs cents.
 
 [**DiningMCP**](https://github.com/kenmham/DiningMCP) — MCP server for Brown dining menus and nutrition lookup, built on Brown's own APIs. No external services or keys.
 
