@@ -30,7 +30,7 @@
 
 [**vleye**](https://github.com/kenmham/vleye) — LLM video editor. Scene segmentation, editorial reasoning traces, iterative feedback. Runs locally, costs cents.
 
-[**vleye**](https://github.com/kenmham/ctx) — Local context layer for coding agents. Indexes version-pinned dependencies via tree-sitter, serves semantic search over MCP. 23ms queries, zero network calls.
+[**ctx**](https://github.com/kenmham/ctx) — Local context layer for coding agents. Indexes version-pinned dependencies via tree-sitter, serves semantic search over MCP. 23ms queries, zero network calls.
 
 [**DiningMCP**](https://github.com/kenmham/DiningMCP) — MCP server for Brown dining menus and nutrition lookup, built on Brown's own APIs. No external services or keys.
 
