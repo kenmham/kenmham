@@ -59,4 +59,4 @@ local CLI for tracking personal data exposure, SQLite + argon2
 
 ---
 
-<sub>DSI Summer Lab · UChicago&ensp;·&ensp;writing about AGI ontology&ensp;·&ensp;building in public</sub>
+<sub>DSI Summer Lab · UChicago&ensp;·&ensp;writing
