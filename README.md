@@ -33,7 +33,7 @@ linearly verifiable code generation, AST-level purity enforcement
 [SmallC](https://github.com/kenmham/SmallC)
 a small compiler for C, written in C
 
-[Brainfucj](https://github.com/kenmham/brainfuck)
+[Brainfuck](https://github.com/kenmham/brainfuck)
 a tooling library for transpiling brainfuck
 
 </td></tr>
